@@ -1,2 +1,4 @@
 # ----- .gitignore ----- #
 .env/*
+ds/__pycache__/*
+tests/__pycache__/*

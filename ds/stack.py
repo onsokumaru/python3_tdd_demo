@@ -2,4 +2,4 @@ class Stack:
     def __init__(self):
         self._storage = []
     def __len__(self):
-        return 3
+        return len(self._storage)
